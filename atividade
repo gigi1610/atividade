@@ -1,0 +1,65 @@
+1. Metadados:
+   - Definindo o título da página:
+     html
+     <head>
+       <title>Título da Página</title>
+     </head>
+     
+
+   - Definindo o conjunto de caracteres:
+     html
+     <head>
+       <meta charset="UTF-8">
+     </head>
+     
+
+2. Separação de conteúdo:
+   - Criando um cabeçalho:
+     html
+     <header>
+       <h1>Meu Site</h1>
+       <nav>
+         <!-- Links de navegação -->
+       </nav>
+     </header>
+     
+
+   - Criando um rodapé:
+     html
+     <footer>
+       <!-- Conteúdo do rodapé -->
+     </footer>
+     
+
+3. Texto:
+   - Criando um parágrafo:
+     html
+     <p>Este é um exemplo de parágrafo.</p>
+     
+
+   - Destacando um texto em negrito:
+     html
+     <p>Este é um exemplo de texto em <strong>negrito</strong>.</p>
+     
+
+4. Imagem:
+   - Inserindo uma imagem local:
+     html
+     <img src="caminho/para/imagem.jpg" alt="Descrição da imagem">
+     
+
+   - Inserindo uma imagem externa:
+     html
+     <img src="https://exemplo.com/imagem.jpg" alt="Descrição da imagem">
+     
+
+5. Formulário:
+   - Criando um campo de entrada de texto:
+     html
+     <input type="text" name="nome" placeholder="Digite seu nome">
+     
+
+   - Criando um botão de envio:
+     html
+     <input type="submit" value="Enviar">
+     
